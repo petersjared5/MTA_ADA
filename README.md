@@ -18,6 +18,7 @@ This interactive Tableau dashboard explores the accessibility of subway stations
 - 📊 Bar chart showing accessibility rate by borough
 - 🧱 Highlight table linking structure type to ADA compliance
 - 🎯 Built-in tooltips and filters for user-driven exploration
+- 🔄 Dynamic graphs that respond to filters and user interaction
 
 ## Tools Used
 - Tableau Public
