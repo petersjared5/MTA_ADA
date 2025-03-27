@@ -6,6 +6,8 @@ Full project in the Tableau Public [here](https://public.tableau.com/app/profile
 ## Overview
 This interactive Tableau dashboard explores the accessibility of subway stations across New York City’s five boroughs. Using MTA station data, it visualizes which stations are ADA-compliant and highlights structural and geographic disparities in accessibility.
 
+<img src="https://github.com/petersjared5/MTA_ADA/blob/main/Dashboard%20Image.png" width="1280" height="640">
+
 ## Key Insights
 - Only 30.43% of subway stations across NYC are ADA-accessible.
 - Brooklyn has the lowest borough-wide compliance rate at just 23%.
